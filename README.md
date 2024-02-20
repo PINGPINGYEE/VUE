@@ -22,3 +22,5 @@
 02 | serve | 일반적인 방법으로 프로젝트 생성
 03 | serve | 라이프사이클 훅에 대한 설명
 04 | serve | 템플릿 문법 학습
+05 | serve | computed 개념 및 실습
+06 | serve | caching, getter&setter 학습
