@@ -24,3 +24,6 @@
 04 | serve | 템플릿 문법 학습
 05 | serve | computed 개념 및 실습
 06 | serve | caching, getter&setter 학습
+07 | serve | watch 개념 및 실습
+08 | serve | 바인딩으로 class 선언
+09 | serve | 바인딩으로 style 선언
