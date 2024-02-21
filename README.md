@@ -16,11 +16,11 @@
 3. Vue 3 Snippets
 
 ### PC가 Vue 명령어를 인식 못할 시
->   1. Windows PowerShell을 관리자로 실행
->   2. Get-ExecutionPolicy 명령어로 실행 정책 체크(Restricted)
->   3. Set-ExecutionPolicy RemoteSigned 명령어로 실행 정책 변경
->   4. Y를 입력하여 동의
->   5. Get-ExecutionPolicy 명령어로 실행 정책 변경 체크
+1. Windows PowerShell을 관리자로 실행
+2. Get-ExecutionPolicy 명령어로 실행 정책 체크(Restricted)
+3. Set-ExecutionPolicy RemoteSigned 명령어로 실행 정책 변경
+4. Y를 입력하여 동의
+5. Get-ExecutionPolicy 명령어로 실행 정책 변경 체크
 
 ### 학습 표
 프로젝트 | 명령어 | 내용 
