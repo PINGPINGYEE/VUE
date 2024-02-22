@@ -41,3 +41,4 @@
 14 | serve | key 관련 수식어
 15 | serve | form 입력 바인딩
 16 | serve | 입력 관련 v-model 수식어
+17 | serve | component 기본
