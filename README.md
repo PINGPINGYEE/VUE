@@ -42,3 +42,6 @@
 15 | serve | form 입력 바인딩
 16 | serve | 입력 관련 v-model 수식어
 17 | serve | component 기본
+
+### 결격 사유
+* vue 6일차(2/23) 학습은 출장으로 인한 불참
