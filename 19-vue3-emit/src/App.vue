@@ -1,5 +1,5 @@
 <template>
-  <MyBtn @click="log">Banana</MyBtn>
+  <MyBtn @listener="log" @change-msg="logMsg">Banana</MyBtn> <!-- HTML 요소에는 카멜 케이스가 되지 않기에 대시 케이스로 수정 -->
 </template>
 
 <script>
@@ -10,8 +10,12 @@ export default {
     MyBtn
   },
   methods: {
-    log() {
+    log(event) {
       console.log('click!!')
+      console.log(event)
+    },
+    logMsg(msg) {
+      console.log(msg)
     }
   }
 }

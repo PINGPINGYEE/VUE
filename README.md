@@ -42,6 +42,9 @@
 15 | serve | form 입력 바인딩
 16 | serve | 입력 관련 v-model 수식어
 17 | serve | component 기본
+18 | serve | 컴포넌트 간 상속
+19 | serve | emit 개념 및 실습
+
 
 ### 결격 사유
 * vue 5일차(2/23) 학습은 출장으로 인한 불참
