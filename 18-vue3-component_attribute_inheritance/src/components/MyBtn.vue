@@ -3,7 +3,10 @@
     <slot></slot>
   </div>
   <div></div> <!-- div(요소)를 한개 더 생성 시 App.vue에서 선언한 class가 사라짐(어떤 자식 요소에게 줘야하는지 모르기 때문) + style 요소도 같은 원리로 적용 안됨 -->
-  <h1 class=""></h1>
+  
+  <h1 :class="$attrs.class"
+      :style="$attrs.class"></h1>
+  <h1 v-bind="$attrs"></h1>
 </template>
 
 <script>
