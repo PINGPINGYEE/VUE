@@ -44,6 +44,7 @@
 17 | serve | component 기본
 18 | serve | 컴포넌트 간 상속
 19 | serve | emit 개념 및 실습
+20 | serve | slot 심화 학습
 
 
 ### 결격 사유
