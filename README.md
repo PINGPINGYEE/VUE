@@ -25,28 +25,28 @@
 ### 학습 표
 프로젝트 | 명령어 | 내용 
 -- | -- | --
-01 | dev | 템플릿을 이용한 프로젝트 생성
-02 | serve | 일반적인 방법으로 프로젝트 생성
-03 | serve | 라이프사이클 훅에 대한 설명
-04 | serve | 템플릿 문법 학습
-05 | serve | computed 개념 및 실습
-06 | serve | caching, getter&setter 학습
-07 | serve | watch 개념 및 실습
-08 | serve | 바인딩으로 class 선언
-09 | serve | 바인딩으로 style 선언
-10 | serve | 조건문을 이용한 렌더링
-11 | serve | 반복문을 이용한 리스트 렌더링
-12 | serve | 메소드를 이용한 이벤트 렌더링
-13 | serve | 각종 이벤트 수식어
-14 | serve | key 관련 수식어
-15 | serve | form 입력 바인딩
-16 | serve | 입력 관련 v-model 수식어
-17 | serve | component 기본
-18 | serve | 컴포넌트 간 상속
-19 | serve | emit 개념
-20 | serve | slot 심화 학습
-21 | serve | provide와 inject 개념
-22 | serve | refs를 학습 및 응용
+vs_01 | dev | 템플릿을 이용한 프로젝트 생성
+vs_02 | serve | 일반적인 방법으로 프로젝트 생성
+vs_03 | serve | 라이프사이클 훅에 대한 설명
+vs_04 | serve | 템플릿 문법 학습
+vs_05 | serve | computed 개념 및 실습
+vs_06 | serve | caching, getter&setter 학습
+vs_07 | serve | watch 개념 및 실습
+vs_08 | serve | 바인딩으로 class 선언
+vs_09 | serve | 바인딩으로 style 선언
+vs_10 | serve | 조건문을 이용한 렌더링
+vs_11 | serve | 반복문을 이용한 리스트 렌더링
+vs_12 | serve | 메소드를 이용한 이벤트 렌더링
+vs_13 | serve | 각종 이벤트 수식어
+vs_14 | serve | key 관련 수식어
+vs_15 | serve | form 입력 바인딩
+vs_16 | serve | 입력 관련 v-model 수식어
+vs_17 | serve | component 기본
+vs_18 | serve | 컴포넌트 간 상속
+vs_19 | serve | emit 개념
+vs_20 | serve | slot 심화 학습
+vs_21 | serve | provide와 inject 개념
+vs_22 | serve | refs를 학습 및 응용
 
 
 ### 결격 사유
