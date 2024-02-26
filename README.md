@@ -43,8 +43,10 @@
 16 | serve | 입력 관련 v-model 수식어
 17 | serve | component 기본
 18 | serve | 컴포넌트 간 상속
-19 | serve | emit 개념 및 실습
+19 | serve | emit 개념
 20 | serve | slot 심화 학습
+21 | serve | provide와 inject 개념
+22 | serve | refs를 학습 및 응용
 
 
 ### 결격 사유
